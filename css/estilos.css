@@ -9,21 +9,30 @@ nav{
 	color: #ffffff;
 	display: inline-block;
 	font-family: arial;
-	font-size: 16px;	
+	font-size: 16px;
+	height: 50px;
+    margin-top: 65px;
+    margin-left: 80px;
+    position: absolute;
 }
 
 img{
-	height: 50px;
-	margin-left: 80px;
-	margin-top: auto;
+	position: absolute;
+    height: 50px;
+	margin-left: 200px;
+    margin-top: 50px;
 }
+
 nav ul{
 	padding-left: 800px;
+
 }
 
 nav ul li{
+	
 	display: inline-block;
 
+	
 }
 
 nav ul li a{
